@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Fiat Punto" },
+  { "id": 2, "name": "Fiat Linea" },
+  { "id": 3, "name": "Fiat Avventura" },
+  { "id": 4, "name": "Fiat Urban Cross" },
+  { "id": 5, "name": "Fiat Argo" },
+  { "id": 6, "name": "Fiat Tipo" },
+  { "id": 7, "name": "Fiat Palio" },
+  { "id": 8, "name": "Fiat Siena" },
+  { "id": 9, "name": "Fiat Stilo" },
+  { "id": 10, "name": "Fiat 500" },
+  { "id": 11, "name": "Fiat Panda" },
+  { "id": 12, "name": "Fiat Uno" },
+  { "id": 13, "name": "Fiat Ducato" },
+  { "id": 14, "name": "Fiat Freemont" },
+  { "id": 15, "name": "Fiat Doblo" },
+  { "id": 16, "name": "Fiat 124 Spider" },
+  { "id": 17, "name": "Fiat Coupe" },
+  { "id": 18, "name": "Fiat Bravo" },
+  { "id": 19, "name": "Fiat Albea" },
+  { "id": 20, "name": "Fiat Regata" }
+]

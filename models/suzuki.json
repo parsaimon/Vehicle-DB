@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Suzuki Alto" },
+  { "id": 2, "name": "Suzuki Baleno" },
+  { "id": 3, "name": "Suzuki Celerio" },
+  { "id": 4, "name": "Suzuki Ciaz" },
+  { "id": 5, "name": "Suzuki Dzire" },
+  { "id": 6, "name": "Suzuki Ertiga" },
+  { "id": 7, "name": "Suzuki Ignis" },
+  { "id": 8, "name": "Suzuki S-Cross" },
+  { "id": 9, "name": "Suzuki Swift" },
+  { "id": 10, "name": "Suzuki Vitara" },
+  { "id": 11, "name": "Suzuki SX4 S-Cross" },
+  { "id": 12, "name": "Suzuki Jimny" },
+  { "id": 13, "name": "Suzuki Grand Vitara" },
+  { "id": 14, "name": "Suzuki Kizashi" },
+  { "id": 15, "name": "Suzuki Wagon R" },
+  { "id": 16, "name": "Suzuki XL7" },
+  { "id": 17, "name": "Suzuki X-90" },
+  { "id": 18, "name": "Suzuki Samurai" },
+  { "id": 19, "name": "Suzuki Carry" },
+  { "id": 20, "name": "Suzuki Every" }
+]

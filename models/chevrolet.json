@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Chevrolet Spark" },
+  { "id": 2, "name": "Chevrolet Beat" },
+  { "id": 3, "name": "Chevrolet Sail" },
+  { "id": 4, "name": "Chevrolet Aveo" },
+  { "id": 5, "name": "Chevrolet Cruze" },
+  { "id": 6, "name": "Chevrolet Tavera" },
+  { "id": 7, "name": "Chevrolet Enjoy" },
+  { "id": 8, "name": "Chevrolet Captiva" },
+  { "id": 9, "name": "Chevrolet Trailblazer" },
+  { "id": 10, "name": "Chevrolet Corvette" },
+  { "id": 11, "name": "Chevrolet Camaro" },
+  { "id": 12, "name": "Chevrolet Impala" },
+  { "id": 13, "name": "Chevrolet Malibu" },
+  { "id": 14, "name": "Chevrolet Suburban" },
+  { "id": 15, "name": "Chevrolet Tahoe" },
+  { "id": 16, "name": "Chevrolet Silverado" },
+  { "id": 17, "name": "Chevrolet Avalanche" },
+  { "id": 18, "name": "Chevrolet Traverse" },
+  { "id": 19, "name": "Chevrolet Equinox" },
+  { "id": 20, "name": "Chevrolet TrailBlazer" }
+]

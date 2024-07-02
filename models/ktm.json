@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "KTM Duke 125" },
+  { "id": 2, "name": "KTM Duke 200" },
+  { "id": 3, "name": "KTM Duke 250" },
+  { "id": 4, "name": "KTM Duke 390" },
+  { "id": 5, "name": "KTM RC 125" },
+  { "id": 6, "name": "KTM RC 200" },
+  { "id": 7, "name": "KTM RC 390" },
+  { "id": 8, "name": "KTM 125 Adventure" },
+  { "id": 9, "name": "KTM 390 Adventure" },
+  { "id": 10, "name": "KTM 250 Adventure" },
+  { "id": 11, "name": "KTM 200 Duke" },
+  { "id": 12, "name": "KTM 250 Duke" },
+  { "id": 13, "name": "KTM 790 Duke" },
+  { "id": 14, "name": "KTM 890 Duke" },
+  { "id": 15, "name": "KTM 1290 Super Duke R" },
+  { "id": 16, "name": "KTM 250 EXC-F" },
+  { "id": 17, "name": "KTM 350 EXC-F" },
+  { "id": 18, "name": "KTM 450 EXC-F" },
+  { "id": 19, "name": "KTM 500 EXC-F" },
+  { "id": 20, "name": "KTM 690 Enduro R" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Kia Seltos" },
+  { "id": 2, "name": "Kia Sonet" },
+  { "id": 3, "name": "Kia Carnival" },
+  { "id": 4, "name": "Kia Seltos X-Line" },
+  { "id": 5, "name": "Kia Stinger" },
+  { "id": 6, "name": "Kia Rio" },
+  { "id": 7, "name": "Kia Soul" },
+  { "id": 8, "name": "Kia Optima" },
+  { "id": 9, "name": "Kia Forte" },
+  { "id": 10, "name": "Kia Cadenza" },
+  { "id": 11, "name": "Kia K5" },
+  { "id": 12, "name": "Kia K900" },
+  { "id": 13, "name": "Kia Picanto" },
+  { "id": 14, "name": "Kia Sportage" },
+  { "id": 15, "name": "Kia Sorento" },
+  { "id": 16, "name": "Kia Telluride" },
+  { "id": 17, "name": "Kia Mohave" },
+  { "id": 18, "name": "Kia Niro" },
+  { "id": 19, "name": "Kia EV6" },
+  { "id": 20, "name": "Kia EV7" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Subaru Impreza" },
+  { "id": 2, "name": "Subaru Legacy" },
+  { "id": 3, "name": "Subaru Forester" },
+  { "id": 4, "name": "Subaru Outback" },
+  { "id": 5, "name": "Subaru XV Crosstrek" },
+  { "id": 6, "name": "Subaru WRX" },
+  { "id": 7, "name": "Subaru BRZ" },
+  { "id": 8, "name": "Subaru Ascent" },
+  { "id": 9, "name": "Subaru Tribeca" },
+  { "id": 10, "name": "Subaru Baja" },
+  { "id": 11, "name": "Subaru SVX" },
+  { "id": 12, "name": "Subaru Justy" },
+  { "id": 13, "name": "Subaru XT" },
+  { "id": 14, "name": "Subaru Leone" },
+  { "id": 15, "name": "Subaru Sambar" },
+  { "id": 16, "name": "Subaru R2" },
+  { "id": 17, "name": "Subaru R1" },
+  { "id": 18, "name": "Subaru Alcyone" },
+  { "id": 19, "name": "Subaru Stella" },
+  { "id": 20, "name": "Subaru Dex" }
+]

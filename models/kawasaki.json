@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Kawasaki Ninja 300" },
+  { "id": 2, "name": "Kawasaki Ninja 400" },
+  { "id": 3, "name": "Kawasaki Ninja ZX-6R" },
+  { "id": 4, "name": "Kawasaki Ninja ZX-10R" },
+  { "id": 5, "name": "Kawasaki Ninja H2" },
+  { "id": 6, "name": "Kawasaki Z250" },
+  { "id": 7, "name": "Kawasaki Z650" },
+  { "id": 8, "name": "Kawasaki Z900" },
+  { "id": 9, "name": "Kawasaki Versys 650" },
+  { "id": 10, "name": "Kawasaki Versys 1000" },
+  { "id": 11, "name": "Kawasaki Vulcan S" },
+  { "id": 12, "name": "Kawasaki W800" },
+  { "id": 13, "name": "Kawasaki KLX 150" },
+  { "id": 14, "name": "Kawasaki KLX 250" },
+  { "id": 15, "name": "Kawasaki KX250F" },
+  { "id": 16, "name": "Kawasaki KX450F" },
+  { "id": 17, "name": "Kawasaki Ninja ZX-14R" },
+  { "id": 18, "name": "Kawasaki Ninja ZX-25R" },
+  { "id": 19, "name": "Kawasaki Z1000" },
+  { "id": 20, "name": "Kawasaki Ninja 650" }
+]

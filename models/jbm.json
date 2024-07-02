@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "JBM EcoLife" },
+  { "id": 2, "name": "JBM Solaris" },
+  { "id": 3, "name": "JBM CityLife" },
+  { "id": 4, "name": "JBM Vega" },
+  { "id": 5, "name": "JBM Shero" },
+  { "id": 6, "name": "JBM K9" },
+  { "id": 7, "name": "JBM 24 M" },
+  { "id": 8, "name": "JBM Ecoline" },
+  { "id": 9, "name": "JBM Starline" },
+  { "id": 10, "name": "JBM Hi-Tech" },
+  { "id": 11, "name": "JBM School Bus" },
+  { "id": 12, "name": "JBM City Bus" },
+  { "id": 13, "name": "JBM Truck" },
+  { "id": 14, "name": "JBM Car" },
+  { "id": 15, "name": "JBM Van" },
+  { "id": 16, "name": "JBM SUV" },
+  { "id": 17, "name": "JBM Sedan" },
+  { "id": 18, "name": "JBM Coupe" },
+  { "id": 19, "name": "JBM Convertible" },
+  { "id": 20, "name": "JBM Hybrid" }
+]

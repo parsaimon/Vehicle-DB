@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Lotus Evora" },
+  { "id": 2, "name": "Lotus Exige" },
+  { "id": 3, "name": "Lotus Elise" },
+  { "id": 4, "name": "Lotus Esprit" },
+  { "id": 5, "name": "Lotus Europa" },
+  { "id": 6, "name": "Lotus Elan" },
+  { "id": 7, "name": "Lotus Seven" },
+  { "id": 8, "name": "Lotus Eclat" },
+  { "id": 9, "name": "Lotus Elite" },
+  { "id": 10, "name": "Lotus Cortina" },
+  { "id": 11, "name": "Lotus Carlton" },
+  { "id": 12, "name": "Lotus 3-Eleven" },
+  { "id": 13, "name": "Lotus 340R" },
+  { "id": 14, "name": "Lotus Elise Cup 250" },
+  { "id": 15, "name": "Lotus Exige Sport 350" },
+  { "id": 16, "name": "Lotus Evija" },
+  { "id": 17, "name": "Lotus 2-Eleven" },
+  { "id": 18, "name": "Lotus Eleven" },
+  { "id": 19, "name": "Lotus Europa S" },
+  { "id": 20, "name": "Lotus Europa Special" }
+]

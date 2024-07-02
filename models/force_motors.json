@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Force Gurkha" },
+  { "id": 2, "name": "Force Trax" },
+  { "id": 3, "name": "Force Tempo" },
+  { "id": 4, "name": "Force One" },
+  { "id": 5, "name": "Force Traveller" },
+  { "id": 6, "name": "Force Kargo King" },
+  { "id": 7, "name": "Force Balwan" },
+  { "id": 8, "name": "Force Trump 40" },
+  { "id": 9, "name": "Force Shaktiman" },
+  { "id": 10, "name": "Force Minidor" },
+  { "id": 11, "name": "Force Cruiser" },
+  { "id": 12, "name": "Force One SUV" },
+  { "id": 13, "name": "Force Motors Traveller 26" },
+  { "id": 14, "name": "Force Gurkha Xtreme" },
+  { "id": 15, "name": "Force Trax Cruiser" },
+  { "id": 16, "name": "Force Gurkha Xplorer" },
+  { "id": 17, "name": "Force Motors Trump" },
+  { "id": 18, "name": "Force Motors Traveller 26 Deluxe" },
+  { "id": 19, "name": "Force Motors Traveller Royale" },
+  { "id": 20, "name": "Force Motors Trax Toofan" }
+]

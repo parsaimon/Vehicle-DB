@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Rolls-Royce Phantom" },
+  { "id": 2, "name": "Rolls-Royce Ghost" },
+  { "id": 3, "name": "Rolls-Royce Wraith" },
+  { "id": 4, "name": "Rolls-Royce Dawn" },
+  { "id": 5, "name": "Rolls-Royce Cullinan" },
+  { "id": 6, "name": "Rolls-Royce Silver Cloud" },
+  { "id": 7, "name": "Rolls-Royce Silver Shadow" },
+  { "id": 8, "name": "Rolls-Royce Silver Spirit" },
+  { "id": 9, "name": "Rolls-Royce Silver Seraph" },
+  { "id": 10, "name": "Rolls-Royce Silver Wraith" },
+  { "id": 11, "name": "Rolls-Royce Corniche" },
+  { "id": 12, "name": "Rolls-Royce Silver Ghost" },
+  { "id": 13, "name": "Rolls-Royce Camargue" },
+  { "id": 14, "name": "Rolls-Royce Phantom Coupe" },
+  { "id": 15, "name": "Rolls-Royce Phantom Drophead Coupe" },
+  { "id": 16, "name": "Rolls-Royce Silver Spur" },
+  { "id": 17, "name": "Rolls-Royce Park Ward" },
+  { "id": 18, "name": "Rolls-Royce Sweptail" },
+  { "id": 19, "name": "Rolls-Royce Spectre" },
+  { "id": 20, "name": "Rolls-Royce Boat Tail" }
+]

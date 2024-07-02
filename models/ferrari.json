@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Ferrari 488 GTB" },
+  { "id": 2, "name": "Ferrari 488 Pista" },
+  { "id": 3, "name": "Ferrari F8 Tributo" },
+  { "id": 4, "name": "Ferrari SF90 Stradale" },
+  { "id": 5, "name": "Ferrari Portofino" },
+  { "id": 6, "name": "Ferrari Roma" },
+  { "id": 7, "name": "Ferrari GTC4Lusso" },
+  { "id": 8, "name": "Ferrari 812 Superfast" },
+  { "id": 9, "name": "Ferrari LaFerrari" },
+  { "id": 10, "name": "Ferrari Enzo Ferrari" },
+  { "id": 11, "name": "Ferrari F40" },
+  { "id": 12, "name": "Ferrari F50" },
+  { "id": 13, "name": "Ferrari Testarossa" },
+  { "id": 14, "name": "Ferrari 458 Italia" },
+  { "id": 15, "name": "Ferrari 360 Modena" },
+  { "id": 16, "name": "Ferrari Dino" },
+  { "id": 17, "name": "Ferrari 250 GTO" },
+  { "id": 18, "name": "Ferrari 250 GT Berlinetta SWB" },
+  { "id": 19, "name": "Ferrari 250 Testa Rossa" },
+  { "id": 20, "name": "Ferrari California" }
+]

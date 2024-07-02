@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Honda Amaze" },
+  { "id": 2, "name": "Honda City" },
+  { "id": 3, "name": "Honda Civic" },
+  { "id": 4, "name": "Honda Accord" },
+  { "id": 5, "name": "Honda Jazz" },
+  { "id": 6, "name": "Honda WR-V" },
+  { "id": 7, "name": "Honda BR-V" },
+  { "id": 8, "name": "Honda CR-V" },
+  { "id": 9, "name": "Honda Brio" },
+  { "id": 10, "name": "Honda Mobilio" }
+]

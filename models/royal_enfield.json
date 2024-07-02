@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Royal Enfield Bullet 350" },
+  { "id": 2, "name": "Royal Enfield Classic 350" },
+  { "id": 3, "name": "Royal Enfield Meteor 350" },
+  { "id": 4, "name": "Royal Enfield Himalayan" },
+  { "id": 5, "name": "Royal Enfield Continental GT" },
+  { "id": 6, "name": "Royal Enfield Interceptor" },
+  { "id": 7, "name": "Royal Enfield Thunderbird" },
+  { "id": 8, "name": "Royal Enfield Classic 500" },
+  { "id": 9, "name": "Royal Enfield Bullet 500" },
+  { "id": 10, "name": "Royal Enfield Bullet Trials 350" },
+  { "id": 11, "name": "Royal Enfield Bullet Trials 500" },
+  { "id": 12, "name": "Royal Enfield Classic Squadron Blue" },
+  { "id": 13, "name": "Royal Enfield Classic Desert Storm" },
+  { "id": 14, "name": "Royal Enfield Classic Chrome" },
+  { "id": 15, "name": "Royal Enfield Classic Redditch" },
+  { "id": 16, "name": "Royal Enfield Classic Battle Green" },
+  { "id": 17, "name": "Royal Enfield Classic Gunmetal Grey" },
+  { "id": 18, "name": "Royal Enfield Classic Stealth Black" },
+  { "id": 19, "name": "Royal Enfield Classic Signals" },
+  { "id": 20, "name": "Royal Enfield Pegasus" }
+]

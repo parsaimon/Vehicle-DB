@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Jeep Compass" },
+  { "id": 2, "name": "Jeep Wrangler" },
+  { "id": 3, "name": "Jeep Grand Cherokee" },
+  { "id": 4, "name": "Jeep Cherokee" },
+  { "id": 5, "name": "Jeep Renegade" },
+  { "id": 6, "name": "Jeep Gladiator" },
+  { "id": 7, "name": "Jeep Patriot" },
+  { "id": 8, "name": "Jeep Liberty" },
+  { "id": 9, "name": "Jeep Commander" },
+  { "id": 10, "name": "Jeep Compass Trailhawk" },
+  { "id": 11, "name": "Jeep Wrangler Rubicon" },
+  { "id": 12, "name": "Jeep Grand Cherokee SRT" },
+  { "id": 13, "name": "Jeep Renegade Trailhawk" },
+  { "id": 14, "name": "Jeep Cherokee Trailhawk" },
+  { "id": 15, "name": "Jeep Wrangler Unlimited" },
+  { "id": 16, "name": "Jeep Grand Wagoneer" },
+  { "id": 17, "name": "Jeep Wagoneer" },
+  { "id": 18, "name": "Jeep CJ" },
+  { "id": 19, "name": "Jeep DJ" },
+  { "id": 20, "name": "Jeep Willys" }
+]

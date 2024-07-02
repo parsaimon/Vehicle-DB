@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Alfa Romeo Giulia" },
+  { "id": 2, "name": "Alfa Romeo Stelvio" },
+  { "id": 3, "name": "Alfa Romeo Giulietta" },
+  { "id": 4, "name": "Alfa Romeo 4C" },
+  { "id": 5, "name": "Alfa Romeo Mito" },
+  { "id": 6, "name": "Alfa Romeo Spider" },
+  { "id": 7, "name": "Alfa Romeo Brera" },
+  { "id": 8, "name": "Alfa Romeo 159" },
+  { "id": 9, "name": "Alfa Romeo 166" },
+  { "id": 10, "name": "Alfa Romeo 147" },
+  { "id": 11, "name": "Alfa Romeo 156" },
+  { "id": 12, "name": "Alfa Romeo GTV" },
+  { "id": 13, "name": "Alfa Romeo GT" },
+  { "id": 14, "name": "Alfa Romeo 33" },
+  { "id": 15, "name": "Alfa Romeo 75" },
+  { "id": 16, "name": "Alfa Romeo 90" },
+  { "id": 17, "name": "Alfa Romeo Alfetta" },
+  { "id": 18, "name": "Alfa Romeo Montreal" },
+  { "id": 19, "name": "Alfa Romeo 8C" },
+  { "id": 20, "name": "Alfa Romeo 6C" }
+]

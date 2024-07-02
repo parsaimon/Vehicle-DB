@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Renault Kwid" },
+  { "id": 2, "name": "Renault Triber" },
+  { "id": 3, "name": "Renault Duster" },
+  { "id": 4, "name": "Renault Kiger" },
+  { "id": 5, "name": "Renault Captur" },
+  { "id": 6, "name": "Renault Lodgy" },
+  { "id": 7, "name": "Renault Scala" },
+  { "id": 8, "name": "Renault Pulse" },
+  { "id": 9, "name": "Renault Fluence" },
+  { "id": 10, "name": "Renault Laguna" },
+  { "id": 11, "name": "Renault Twizy" },
+  { "id": 12, "name": "Renault Zoe" },
+  { "id": 13, "name": "Renault Kangoo" },
+  { "id": 14, "name": "Renault Talisman" },
+  { "id": 15, "name": "Renault Megane" },
+  { "id": 16, "name": "Renault Scenic" },
+  { "id": 17, "name": "Renault Avantime" },
+  { "id": 18, "name": "Renault Vel Satis" },
+  { "id": 19, "name": "Renault Espace" },
+  { "id": 20, "name": "Renault Arkana" }
+]

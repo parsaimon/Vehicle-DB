@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Yamaha FZ" },
+  { "id": 2, "name": "Yamaha R15" },
+  { "id": 3, "name": "Yamaha MT-15" },
+  { "id": 4, "name": "Yamaha Fazer" },
+  { "id": 5, "name": "Yamaha FZS" },
+  { "id": 6, "name": "Yamaha YZF-R3" },
+  { "id": 7, "name": "Yamaha YZF-R15 V3" },
+  { "id": 8, "name": "Yamaha YZF-R1" },
+  { "id": 9, "name": "Yamaha MT-09" },
+  { "id": 10, "name": "Yamaha MT-07" },
+  { "id": 11, "name": "Yamaha MT-03" },
+  { "id": 12, "name": "Yamaha Tenere 700" },
+  { "id": 13, "name": "Yamaha XSR155" },
+  { "id": 14, "name": "Yamaha Tracer 900" },
+  { "id": 15, "name": "Yamaha R1M" },
+  { "id": 16, "name": "Yamaha NMax" },
+  { "id": 17, "name": "Yamaha Aerox" },
+  { "id": 18, "name": "Yamaha Cygnus" },
+  { "id": 19, "name": "Yamaha Saluto" },
+  { "id": 20, "name": "Yamaha Fascino" }
+]

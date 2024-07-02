@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Nissan Micra" },
+  { "id": 2, "name": "Nissan Sunny" },
+  { "id": 3, "name": "Nissan Magnite" },
+  { "id": 4, "name": "Nissan Kicks" },
+  { "id": 5, "name": "Nissan Terrano" },
+  { "id": 6, "name": "Nissan Patrol" },
+  { "id": 7, "name": "Nissan 370Z" },
+  { "id": 8, "name": "Nissan GT-R" },
+  { "id": 9, "name": "Nissan Leaf" },
+  { "id": 10, "name": "Nissan Altima" },
+  { "id": 11, "name": "Nissan Maxima" },
+  { "id": 12, "name": "Nissan Sentra" },
+  { "id": 13, "name": "Nissan Versa" },
+  { "id": 14, "name": "Nissan Murano" },
+  { "id": 15, "name": "Nissan Rogue" },
+  { "id": 16, "name": "Nissan Pathfinder" },
+  { "id": 17, "name": "Nissan Armada" },
+  { "id": 18, "name": "Nissan X-Trail" },
+  { "id": 19, "name": "Nissan Juke" },
+  { "id": 20, "name": "Nissan Qashqai" }
+]

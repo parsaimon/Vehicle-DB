@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Switch Mobility Van" },
+  { "id": 2, "name": "Switch Mobility Bus" },
+  { "id": 3, "name": "Switch Mobility Truck" },
+  { "id": 4, "name": "Switch Mobility EV" },
+  { "id": 5, "name": "Switch Mobility eLCV" },
+  { "id": 6, "name": "Switch Mobility eBus" },
+  { "id": 7, "name": "Switch Mobility eTruck" },
+  { "id": 8, "name": "Switch Mobility S1" },
+  { "id": 9, "name": "Switch Mobility T1" },
+  { "id": 10, "name": "Switch Mobility L1" },
+  { "id": 11, "name": "Switch Mobility C1" },
+  { "id": 12, "name": "Switch Mobility X1" },
+  { "id": 13, "name": "Switch Mobility M1" },
+  { "id": 14, "name": "Switch Mobility R1" },
+  { "id": 15, "name": "Switch Mobility H1" },
+  { "id": 16, "name": "Switch Mobility B1" },
+  { "id": 17, "name": "Switch Mobility G1" },
+  { "id": 18, "name": "Switch Mobility P1" },
+  { "id": 19, "name": "Switch Mobility F1" },
+  { "id": 20, "name": "Switch Mobility V1" }
+]

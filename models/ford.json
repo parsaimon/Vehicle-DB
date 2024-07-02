@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Ford Figo" },
+  { "id": 2, "name": "Ford Aspire" },
+  { "id": 3, "name": "Ford Freestyle" },
+  { "id": 4, "name": "Ford EcoSport" },
+  { "id": 5, "name": "Ford Endeavour" },
+  { "id": 6, "name": "Ford Mustang" },
+  { "id": 7, "name": "Ford Fiesta" },
+  { "id": 8, "name": "Ford Fusion" },
+  { "id": 9, "name": "Ford Classic" },
+  { "id": 10, "name": "Ford Ikon" },
+  { "id": 11, "name": "Ford Escort" },
+  { "id": 12, "name": "Ford Focus" },
+  { "id": 13, "name": "Ford Taurus" },
+  { "id": 14, "name": "Ford Thunderbird" },
+  { "id": 15, "name": "Ford Crown Victoria" },
+  { "id": 16, "name": "Ford Edge" },
+  { "id": 17, "name": "Ford Explorer" },
+  { "id": 18, "name": "Ford Expedition" },
+  { "id": 19, "name": "Ford Ranger" },
+  { "id": 20, "name": "Ford Transit" }
+]

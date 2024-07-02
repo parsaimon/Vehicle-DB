@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Eka Plus" },
+  { "id": 2, "name": "Eka Truck" },
+  { "id": 3, "name": "Eka Bus" },
+  { "id": 4, "name": "Eka Van" },
+  { "id": 5, "name": "Eka Electric" },
+  { "id": 6, "name": "Eka City" },
+  { "id": 7, "name": "Eka Metro" },
+  { "id": 8, "name": "Eka Prime" },
+  { "id": 9, "name": "Eka Smart" },
+  { "id": 10, "name": "Eka Lux" },
+  { "id": 11, "name": "Eka Max" },
+  { "id": 12, "name": "Eka Ultra" },
+  { "id": 13, "name": "Eka Premium" },
+  { "id": 14, "name": "Eka Eco" },
+  { "id": 15, "name": "Eka Hybrid" },
+  { "id": 16, "name": "Eka Cargo" },
+  { "id": 17, "name": "Eka Mini" },
+  { "id": 18, "name": "Eka S1" },
+  { "id": 19, "name": "Eka E1" },
+  { "id": 20, "name": "Eka X1" }
+]

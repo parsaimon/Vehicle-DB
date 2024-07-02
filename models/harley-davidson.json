@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Harley-Davidson Street 750" },
+  { "id": 2, "name": "Harley-Davidson Street Rod" },
+  { "id": 3, "name": "Harley-Davidson Iron 883" },
+  { "id": 4, "name": "Harley-Davidson Forty-Eight" },
+  { "id": 5, "name": "Harley-Davidson Roadster" },
+  { "id": 6, "name": "Harley-Davidson SuperLow" },
+  { "id": 7, "name": "Harley-Davidson Deluxe" },
+  { "id": 8, "name": "Harley-Davidson Heritage Classic" },
+  { "id": 9, "name": "Harley-Davidson Fat Boy" },
+  { "id": 10, "name": "Harley-Davidson Softail Slim" },
+  { "id": 11, "name": "Harley-Davidson Breakout" },
+  { "id": 12, "name": "Harley-Davidson Street Glide" },
+  { "id": 13, "name": "Harley-Davidson Road King" },
+  { "id": 14, "name": "Harley-Davidson Electra Glide" },
+  { "id": 15, "name": "Harley-Davidson Ultra Limited" },
+  { "id": 16, "name": "Harley-Davidson CVO Limited" },
+  { "id": 17, "name": "Harley-Davidson Sportster" },
+  { "id": 18, "name": "Harley-Davidson Dyna" },
+  { "id": 19, "name": "Harley-Davidson V-Rod" },
+  { "id": 20, "name": "Harley-Davidson Tri Glide Ultra" }
+]

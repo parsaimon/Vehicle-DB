@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Maserati Ghibli" },
+  { "id": 2, "name": "Maserati Quattroporte" },
+  { "id": 3, "name": "Maserati Levante" },
+  { "id": 4, "name": "Maserati GranTurismo" },
+  { "id": 5, "name": "Maserati GranCabrio" },
+  { "id": 6, "name": "Maserati MC20" },
+  { "id": 7, "name": "Maserati MC12" },
+  { "id": 8, "name": "Maserati Spyder" },
+  { "id": 9, "name": "Maserati Biturbo" },
+  { "id": 10, "name": "Maserati Merak" },
+  { "id": 11, "name": "Maserati Bora" },
+  { "id": 12, "name": "Maserati Khamsin" },
+  { "id": 13, "name": "Maserati Shamal" },
+  { "id": 14, "name": "Maserati 3200 GT" },
+  { "id": 15, "name": "Maserati 4200 GT" },
+  { "id": 16, "name": "Maserati 228" },
+  { "id": 17, "name": "Maserati 430" },
+  { "id": 18, "name": "Maserati Karif" },
+  { "id": 19, "name": "Maserati Sebring" },
+  { "id": 20, "name": "Maserati Mistral" }
+]

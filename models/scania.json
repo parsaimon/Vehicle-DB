@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Scania R-Series" },
+  { "id": 2, "name": "Scania S-Series" },
+  { "id": 3, "name": "Scania P-Series" },
+  { "id": 4, "name": "Scania G-Series" },
+  { "id": 5, "name": "Scania L-Series" },
+  { "id": 6, "name": "Scania E-Series" },
+  { "id": 7, "name": "Scania XT-Series" },
+  { "id": 8, "name": "Scania NT-Series" },
+  { "id": 9, "name": "Scania F-Series" },
+  { "id": 10, "name": "Scania K-Series" },
+  { "id": 11, "name": "Scania N-Series" },
+  { "id": 12, "name": "Scania T-Series" },
+  { "id": 13, "name": "Scania Streamline" },
+  { "id": 14, "name": "Scania Hybrid" },
+  { "id": 15, "name": "Scania Electric" },
+  { "id": 16, "name": "Scania Biofuel" },
+  { "id": 17, "name": "Scania Euro 6" },
+  { "id": 18, "name": "Scania 4-Series" },
+  { "id": 19, "name": "Scania 3-Series" },
+  { "id": 20, "name": "Scania 2-Series" }
+]

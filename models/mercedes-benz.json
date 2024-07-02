@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Mercedes-Benz A-Class" },
+  { "id": 2, "name": "Mercedes-Benz B-Class" },
+  { "id": 3, "name": "Mercedes-Benz C-Class" },
+  { "id": 4, "name": "Mercedes-Benz CLA-Class" },
+  { "id": 5, "name": "Mercedes-Benz CLS-Class" },
+  { "id": 6, "name": "Mercedes-Benz E-Class" },
+  { "id": 7, "name": "Mercedes-Benz G-Class" },
+  { "id": 8, "name": "Mercedes-Benz GLA-Class" },
+  { "id": 9, "name": "Mercedes-Benz GLB-Class" },
+  { "id": 10, "name": "Mercedes-Benz GLC-Class" },
+  { "id": 11, "name": "Mercedes-Benz GLE-Class" },
+  { "id": 12, "name": "Mercedes-Benz GLS-Class" },
+  { "id": 13, "name": "Mercedes-Benz S-Class" },
+  { "id": 14, "name": "Mercedes-Benz SL-Class" },
+  { "id": 15, "name": "Mercedes-Benz AMG GT" },
+  { "id": 16, "name": "Mercedes-Benz Maybach S-Class" },
+  { "id": 17, "name": "Mercedes-Benz V-Class" },
+  { "id": 18, "name": "Mercedes-Benz X-Class" },
+  { "id": 19, "name": "Mercedes-Benz EQC" },
+  { "id": 20, "name": "Mercedes-Benz SLS AMG" }
+]

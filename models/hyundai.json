@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Hyundai Santro" },
+  { "id": 2, "name": "Hyundai i10" },
+  { "id": 3, "name": "Hyundai Grand i10" },
+  { "id": 4, "name": "Hyundai i20" },
+  { "id": 5, "name": "Hyundai i20 Active" },
+  { "id": 6, "name": "Hyundai Verna" },
+  { "id": 7, "name": "Hyundai Elantra" },
+  { "id": 8, "name": "Hyundai Sonata" },
+  { "id": 9, "name": "Hyundai Tucson" },
+  { "id": 10, "name": "Hyundai Creta" },
+  { "id": 11, "name": "Hyundai Kona Electric" },
+  { "id": 12, "name": "Hyundai Venue" },
+  { "id": 13, "name": "Hyundai Alcazar" },
+  { "id": 14, "name": "Hyundai Aura" },
+  { "id": 15, "name": "Hyundai Xcent" }
+]

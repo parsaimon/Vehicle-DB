@@ -1,0 +1,246 @@
+[
+  {
+    "name": "Maruti Suzuki",
+    "id": "1"
+  },
+  {
+    "name": "Hyundai",
+    "id": "2"
+  },
+  {
+    "name": "Tata Motors",
+    "id": "3"
+  },
+  {
+    "name": "Mahindra",
+    "id": "4"
+  },
+  {
+    "name": "Honda",
+    "id": "5"
+  },
+  {
+    "name": "Hero MotoCorp",
+    "id": "6"
+  },
+  {
+    "name": "Bajaj",
+    "id": "7"
+  },
+  {
+    "name": "TVS",
+    "id": "8"
+  },
+  {
+    "name": "Maruti",
+    "id": "9"
+  },
+  {
+    "name": "Toyota",
+    "id": "10"
+  },
+  {
+    "name": "Ford",
+    "id": "11"
+  },
+  {
+    "name": "Volkswagen",
+    "id": "12"
+  },
+  {
+    "name": "Renault",
+    "id": "13"
+  },
+  {
+    "name": "Nissan",
+    "id": "14"
+  },
+  {
+    "name": "Chevrolet",
+    "id": "15"
+  },
+  {
+    "name": "BMW",
+    "id": "16"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "id": "17"
+  },
+  {
+    "name": "Audi",
+    "id": "18"
+  },
+  {
+    "name": "KTM",
+    "id": "19"
+  },
+  {
+    "name": "Yamaha",
+    "id": "20"
+  },
+  {
+    "name": "Suzuki",
+    "id": "21"
+  },
+  {
+    "name": "Kawasaki",
+    "id": "22"
+  },
+  {
+    "name": "Harley-Davidson",
+    "id": "23"
+  },
+  {
+    "name": "Royal Enfield",
+    "id": "24"
+  },
+  {
+    "name": "Lamborghini",
+    "id": "25"
+  },
+  {
+    "name": "Ferrari",
+    "id": "26"
+  },
+  {
+    "name": "Porsche",
+    "id": "27"
+  },
+  {
+    "name": "Jaguar",
+    "id": "28"
+  },
+  {
+    "name": "Land Rover",
+    "id": "29"
+  },
+  {
+    "name": "Volvo",
+    "id": "30"
+  },
+  {
+    "name": "Kia",
+    "id": "32"
+  },
+  {
+    "name": "Datsun",
+    "id": "33"
+  },
+  {
+    "name": "Fiat",
+    "id": "34"
+  },
+  {
+    "name": "Jeep",
+    "id": "35"
+  },
+  {
+    "name": "Maserati",
+    "id": "36"
+  },
+  {
+    "name": "Mini",
+    "id": "37"
+  },
+  {
+    "name": "Rolls-Royce",
+    "id": "38"
+  },
+  {
+    "name": "Tesla",
+    "id": "39"
+  },
+  {
+    "name": "Aston Martin",
+    "id": "40"
+  },
+  {
+    "name": "Bugatti",
+    "id": "41"
+  },
+  {
+    "name": "Lexus",
+    "id": "43"
+  },
+  {
+    "name": "Subaru",
+    "id": "44"
+  },
+  {
+    "name": "Alfa Romeo",
+    "id": "45"
+  },
+  {
+    "name": "Bentley",
+    "id": "46"
+  },
+  {
+    "name": "Citroen",
+    "id": "47"
+  },
+  {
+    "name": "Daihatsu",
+    "id": "48"
+  },
+  {
+    "name": "Infiniti",
+    "id": "49"
+  },
+  {
+    "name": "Isuzu",
+    "id": "50"
+  },
+  {
+    "name": "OLA Electric",
+    "id": "51"
+  },
+  {
+    "name": "Ather",
+    "id": "52"
+  },
+  {
+    "name": "Force Motors",
+    "id": "53"
+  },
+  {
+    "name": "Lotus",
+    "id": "54"
+  },
+  {
+    "name": "BYD",
+    "id": "55"
+  },
+  {
+    "name": "Ashok Leyland",
+    "id": "56"
+  },
+  {
+    "name": "Eicher",
+    "id": "57"
+  },
+  {
+    "name": "JBM",
+    "id": "58"
+  },
+  {
+    "name": "Switch Mobility",
+    "id": "59"
+  },
+  {
+    "name": "Bharat Benz",
+    "id": "60"
+  },
+  {
+    "name": "Eka Mobility",
+    "id": "61"
+  },
+  {
+    "name": "Scania",
+    "id": "62"
+  },
+  {
+    "name": "JAWA Motorcycles",
+    "id": "63"
+  }
+]

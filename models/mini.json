@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "MINI Cooper Hatch" },
+  { "id": 2, "name": "MINI Cooper Convertible" },
+  { "id": 3, "name": "MINI Clubman" },
+  { "id": 4, "name": "MINI Countryman" },
+  { "id": 5, "name": "MINI Paceman" },
+  { "id": 6, "name": "MINI John Cooper Works" },
+  { "id": 7, "name": "MINI Cooper S" },
+  { "id": 8, "name": "MINI Electric" },
+  { "id": 9, "name": "MINI Roadster" },
+  { "id": 10, "name": "MINI Coupe" },
+  { "id": 11, "name": "MINI Rocketman" },
+  { "id": 12, "name": "MINI Superleggera" },
+  { "id": 13, "name": "MINI One" },
+  { "id": 14, "name": "MINI Cooper D" },
+  { "id": 15, "name": "MINI Cooper SD" },
+  { "id": 16, "name": "MINI Cooper SE" },
+  { "id": 17, "name": "MINI Countryman SE" },
+  { "id": 18, "name": "MINI John Cooper Works GP" },
+  { "id": 19, "name": "MINI Cooper Clubman" },
+  { "id": 20, "name": "MINI John Cooper Works Clubman" }
+]

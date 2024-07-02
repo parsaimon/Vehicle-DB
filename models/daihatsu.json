@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Daihatsu Cuore" },
+  { "id": 2, "name": "Daihatsu Mira" },
+  { "id": 3, "name": "Daihatsu Move" },
+  { "id": 4, "name": "Daihatsu Terios" },
+  { "id": 5, "name": "Daihatsu Sirion" },
+  { "id": 6, "name": "Daihatsu Charade" },
+  { "id": 7, "name": "Daihatsu Rocky" },
+  { "id": 8, "name": "Daihatsu Ayla" },
+  { "id": 9, "name": "Daihatsu Xenia" },
+  { "id": 10, "name": "Daihatsu Gran Max" },
+  { "id": 11, "name": "Daihatsu Luxio" },
+  { "id": 12, "name": "Daihatsu Taft" },
+  { "id": 13, "name": "Daihatsu Hijet" },
+  { "id": 14, "name": "Daihatsu Copen" },
+  { "id": 15, "name": "Daihatsu Applause" },
+  { "id": 16, "name": "Daihatsu Trevis" },
+  { "id": 17, "name": "Daihatsu Opti" },
+  { "id": 18, "name": "Daihatsu Tanto" },
+  { "id": 19, "name": "Daihatsu Wake" },
+  { "id": 20, "name": "Daihatsu Thor" }
+]

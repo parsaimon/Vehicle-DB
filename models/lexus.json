@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Lexus RX" },
+  { "id": 2, "name": "Lexus NX" },
+  { "id": 3, "name": "Lexus ES" },
+  { "id": 4, "name": "Lexus LS" },
+  { "id": 5, "name": "Lexus GX" },
+  { "id": 6, "name": "Lexus LX" },
+  { "id": 7, "name": "Lexus RC" },
+  { "id": 8, "name": "Lexus LC" },
+  { "id": 9, "name": "Lexus UX" },
+  { "id": 10, "name": "Lexus CT" },
+  { "id": 11, "name": "Lexus IS" },
+  { "id": 12, "name": "Lexus GS" },
+  { "id": 13, "name": "Lexus LFA" },
+  { "id": 14, "name": "Lexus SC" },
+  { "id": 15, "name": "Lexus HS" },
+  { "id": 16, "name": "Lexus GXOR" },
+  { "id": 17, "name": "Lexus RC F" },
+  { "id": 18, "name": "Lexus RC 300" },
+  { "id": 19, "name": "Lexus RC 350" },
+  { "id": 20, "name": "Lexus LC 500" }
+]

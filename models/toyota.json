@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Toyota Corolla" },
+  { "id": 2, "name": "Toyota Camry" },
+  { "id": 3, "name": "Toyota Prius" },
+  { "id": 4, "name": "Toyota Yaris" },
+  { "id": 5, "name": "Toyota Avalon" },
+  { "id": 6, "name": "Toyota RAV4" },
+  { "id": 7, "name": "Toyota Highlander" },
+  { "id": 8, "name": "Toyota 4Runner" },
+  { "id": 9, "name": "Toyota Sequoia" },
+  { "id": 10, "name": "Toyota Land Cruiser" },
+  { "id": 11, "name": "Toyota Tacoma" },
+  { "id": 12, "name": "Toyota Tundra" },
+  { "id": 13, "name": "Toyota C-HR" },
+  { "id": 14, "name": "Toyota Venza" },
+  { "id": 15, "name": "Toyota Supra" },
+  { "id": 16, "name": "Toyota MR2" },
+  { "id": 17, "name": "Toyota 86" },
+  { "id": 18, "name": "Toyota Sienna" },
+  { "id": 19, "name": "Toyota Matrix" },
+  { "id": 20, "name": "Toyota Echo" }
+]
